@@ -1,0 +1,1 @@
+调用<QThread>来thread
